@@ -1,0 +1,10 @@
+# .gitignore
+案例7/data
+.DS_Store
+.ipynb_checkpoints
+.idea
+案例5/dataset_release
+案例5/mmcv
+案例5/mmdetection
+实验三/data
+案例7/benchmark.zip
